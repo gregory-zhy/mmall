@@ -4,7 +4,7 @@ import java.util.Date;
 
 public class User {
     /*
-    ssss ddd
+    maps
      */
     private Integer id;
 
