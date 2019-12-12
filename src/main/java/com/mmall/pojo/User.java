@@ -5,6 +5,8 @@ import java.util.Date;
 public class User {
     //v1
     //v2
+    //maps
+    //maps2
     private Integer id;
 
     private String username;
