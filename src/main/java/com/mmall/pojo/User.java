@@ -3,7 +3,7 @@ package com.mmall.pojo;
 import java.util.Date;
 
 public class User {
-    //v1
+    //test1
     private Integer id;
 
     private String username;
