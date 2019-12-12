@@ -3,6 +3,9 @@ package com.mmall.pojo;
 import java.util.Date;
 
 public class User {
+    /*
+    ssss ddd
+     */
     private Integer id;
 
     private String username;
