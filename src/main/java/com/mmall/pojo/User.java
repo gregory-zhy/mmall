@@ -4,14 +4,6 @@ import java.util.Date;
 
 public class User {
     //v1
-    //v2
-    //maps
-    //maps2
-    //v3
-    //test
-    //test2
-    //test3
-    //test4
     private Integer id;
 
     private String username;
