@@ -7,6 +7,7 @@ public class User {
     //v2
     //maps
     //maps2
+    //v3
     private Integer id;
 
     private String username;
