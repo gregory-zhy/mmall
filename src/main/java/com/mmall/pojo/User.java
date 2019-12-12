@@ -4,6 +4,7 @@ import java.util.Date;
 
 public class User {
     //test1
+    //test2
     private Integer id;
 
     private String username;
